@@ -1,7 +1,7 @@
 # 💫 About Me:
 <img align="right" height="120" src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif?cid=790b7611msvx05dn2j0ntddwqaadq9ngt6hl9e3k1hpj89j8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 👋 Hello there! I'm Animesh Srivastava, currently immersed in the world of CS pursuing my MS at the University of Southern California.<br><br>💻 I'm a dynamic full-stack software developer, passionate about crafting seamless experiences across web and mobile applications. Balancing the digital realm with physical activities and sports keeps me grounded and energized.<br><br>🎯 Currently, my focus lies in honing my skills as a MERN stack developer while delving into the fascinating realms of NLP and LLMs, exploring how they can augment web and mobile applications.<br><br>💡 Fun fact: I learn new tech faster than my computer boots up in the morning! Give me a challenge, and I'll turn it into a growth spurt quicker than you can say "bug squashed!" Work? Bring it on—I thrive on the adrenaline rush of problem-solving, fueled by coffee and a dash of coding chaos.<br>Whether it's wrangling with complex algorithms or debugging with a magnifying glass, I'm always up for the task—ready to dive into the digital fray and emerge victorious!
-To know more about my work experience and projects, checkout my <a href="https://drive.google.com/file/d/1-8yfJfPwyt0OfnIQaAyYIrGIJIkZdeDy/view?usp=drive_link">resume</a>.
+<br>To know more about my work experience and projects, checkout my <a href="https://drive.google.com/file/d/1-8yfJfPwyt0OfnIQaAyYIrGIJIkZdeDy/view?usp=drive_link">resume</a>.
 
 
 
